@@ -1,2 +1,2 @@
-# flask-init-template-
+# flask-init-template
 flask web api 框架
